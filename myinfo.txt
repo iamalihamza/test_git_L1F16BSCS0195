@@ -1,7 +1,4 @@
-
-"Name: Alii Hamza" 
-=======
-"Name: AliHamza" 
+Name: AliHamza ;)
 
 Email: aleeehamza@gmail.com
 FOIT
